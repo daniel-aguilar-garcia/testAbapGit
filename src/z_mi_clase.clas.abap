@@ -5,8 +5,11 @@ CLASS z_mi_clase DEFINITION PUBLIC FINAL CREATE PUBLIC.
 ENDCLASS.
 
 
-CLASS z_mi_clase IMPLEMENTATION.
+
+CLASS Z_MI_CLASE IMPLEMENTATION.
+
+
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Holaaa RAMA TEST' ).
+    out->write( 'Holaaa desde eclipse a rama MAIN' ).
   ENDMETHOD.
 ENDCLASS.
