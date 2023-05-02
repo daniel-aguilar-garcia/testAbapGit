@@ -7,6 +7,6 @@ ENDCLASS.
 
 CLASS z_mi_clase IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Holaaa 12345' ).
+    out->write( 'Holaaa RAMA TEST' ).
   ENDMETHOD.
 ENDCLASS.
