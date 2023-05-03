@@ -10,6 +10,6 @@ CLASS Z_MI_CLASE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Holaaa desde eclipse a rama MAIN' ).
+    out->write( 'Holaaa desde eclipse a rama xxx' ).
   ENDMETHOD.
 ENDCLASS.
